@@ -23,6 +23,6 @@
     <h1>Halo, saya [Nama Kamu]!</h1>
     <p>Selamat datang di website pribadi saya.</p>
     <p>📧 Email: kamu@email.com</p>
-    <p>💼 LinkedIn: <a href="https://linkedin.com/in/username" target="_blank">linkedin.com/in/username</a></p>
+    <p>💼 LinkedIn: <a href="https://linkedin.com/in/raihantatsbita" target="_blank">linkedin.com/in/raihantatsbita</a></p>
 </body>
 </html>
